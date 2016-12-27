@@ -1,0 +1,1 @@
+package my; message Person { required string name = 1; optional int32 age = 2; };
